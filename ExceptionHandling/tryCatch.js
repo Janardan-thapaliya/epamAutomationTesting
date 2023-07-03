@@ -8,9 +8,3 @@ try{
 catch(error){
     console.log("Error: " + error.message);
 }
-
-try {
-    let 
-} catch (error) {
-    
-}
